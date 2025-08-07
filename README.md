@@ -6,10 +6,10 @@ This project presents a Power BI dashboard developed for Croma, a leading electr
 The dashboard highlights key performance indicators (KPIs) and visual trends across several business areas:
 
 ### Key KPIs:
-- **Total Inventory:** 15K units in stock
-- **Total Invoices:** 30
-- **Total Revenue:** ₹46 Million
-- **Total Profit:** ₹8 Million
+- **Total Inventory:** 
+- **Total Invoices:**
+- **Total Revenue:*
+- **Total Profit:** 
 
 ###  Inventory Overview:
 - **By Branch:** A treemap visualization shows stock levels at branches B001–B005.
